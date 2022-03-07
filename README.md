@@ -8,6 +8,7 @@ The porpuse of this project is to create an interactive webpage that allows read
 
 ## Results
 
+Users can use filters for the tables, such as date, city, state, country and shape.
 
 ![image](https://user-images.githubusercontent.com/95327338/156948136-357acc9a-7a8a-4156-8a53-ef551801f30d.png)
 
@@ -18,7 +19,7 @@ The porpuse of this project is to create an interactive webpage that allows read
 
 ## Summary
 
-
+One drawback of this page is that currently is unable to display images examples as users filter data. It would be nice if the page shows an example in order to ilustrate what the user is looking for. One recomendation would be to create a drop down list in order to make an easier expirience to the user
 
 
 
