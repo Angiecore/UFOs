@@ -8,7 +8,7 @@ The porpuse of this project is to create an interactive webpage that allows read
 
 ## Results
 
-Users can use the filters search for the tables data, such as date, city, state, country and shape.
+Users can use the filters search for the tables data, such as date, city, state, country and shape. The table will automatically be filtered to match with the user's selections
 
 ![image](https://user-images.githubusercontent.com/95327338/156948136-357acc9a-7a8a-4156-8a53-ef551801f30d.png)
 
