@@ -19,7 +19,7 @@ Users can use filters for the tables, such as date, city, state, country and sha
 
 ## Summary
 
-One drawback of this page is that currently is unable to display images examples as users filter data. It would be nice if the page shows an example in order to ilustrate what the user is looking for. One recomendation would be to create a drop down list in order to make an easier expirience to the user
+One drawback of this page is that currently is unable to display images examples as users filter data. It would be nice if the page shows an example in order to ilustrate what the user is looking for. One recomendation would be to create a drop down list on the filter search in order to make an easier expirience to the user
 
 
 
