@@ -1,5 +1,4 @@
-# UFOs
-Module 11 - JavaScript
+# UFOs - Module 11 - JavaScript
 
 ## Overview of Project
 
